@@ -8,7 +8,7 @@
 | **Codename** | **HA-DISCO** (MQTT) + **HA-FABRIC** (Matter) + **HA-MIND** (semantic primitives) |
 | **Relates to** | ADR-018 (CSI binary frame format), ADR-021 (ESP32 vitals), ADR-031 (RuView sensing-first), ADR-039 (edge vitals packet 0xC511_0002), ADR-079 (camera ground-truth), ADR-103 (cog-person-count), ADR-110 (ESP32-C6 firmware), ADR-114 (cog-quantum-vitals) |
 | **Tracking issue** | [#776](https://github.com/ruvnet/RuView/issues/776) — implementation in PR [#778](https://github.com/ruvnet/RuView/pull/778) |
-| **Related issues** | [#574](https://github.com/ruvnet/RuView/issues/574) (mDNS for seed_url), [#760](https://github.com/ruvnet/RuView/issues/760) (sensing UI), [#761](https://github.com/ruvnet/RuView/issues/761) (HA competitor scan) |
+| **Related issues** | [#574](https://github.com/ruvnet/RuView/issues/574) (mDNS for seed_url), [#760](https://github.com/ruvnet/RuView/issues/760) (sensing UI), [#761](https://github.com/pathum25) (HA competitor scan) |
 
 ---
 
